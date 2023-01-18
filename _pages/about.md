@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Course
+title: Course Info
 permalink: /
 subtitle: Spring 2023
 # <a href='https://www.binghamton.edu/computer-science/index.html'>Department of Computer Science</a>. Address. Contacts. Moto. Etc. https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/
@@ -30,7 +30,7 @@ Introduction to the design and implementation of programming languages: linguist
 * Instructor: [Zeyu Ding](https://zeyuding.com)
   * Email: dding1@binghamton.edu	  
   * Office: EB N34
-  * Office hours: M&W 3:00 – 4:00 PM or by appointment
+  * Office hours: T&W 2:20 – 3:20 PM or by appointment
 
 * Teaching Assistant: Gangadhar Korrapati
   * Email:  gkorrap1@binghamton.edu
@@ -40,12 +40,13 @@ Introduction to the design and implementation of programming languages: linguist
 
 ### Learning Objectives
 
-By the end of this course, you will be able to:
-* Identify and demonstrate risks to privacy in data science settings
-* Define and apply formal notions of privacy, including k-anonymity and differential privacy
-* Correctly match differential privacy technology with an application
-* Safely implement privacy solutions, and experimentally validate the performance and utility of algorithms
-* Understand differential privacy at a level sufficient to engage in research about best practices in implementation, apply the material in practice, and/or connect it to other areas
+Develop computer science professionals who are knowledgeable consumers of programming languages, able to understand the strengths and limitations of languages and why the languages have them.
+
+* Students will have a firm grasp of different language features included in common languages such as C, C++,C#, Java, Scheme, Prolog and scripting languages; understand the benefits and drawbacks of these features.
+* Students will have a clear understanding of the different language paradigms, their benefits and drawbacks. Understand and appreciate the distinctions between imperative versus declarative languages; functional versus logic versus object-oriented languages.
+* Students will understand how various language features are implemented, with a view to better understand design choices and trade-offs in a language, and most importantly, become more effective programmers whatever language you choose to program in.
+* Students will acquire a good working knowledge of different programming styles and understand and use modern language features such as abstract data types, type-safe programming, inheritance, higher-order functions, etc.
+
 
 ---
 
@@ -61,7 +62,7 @@ By the end of this course, you will be able to:
 ### Textbooks and Other Materials
 
 * Required Textbook
-    * Michael L. Scott, _Programming Language Pragmatics_, 3rd or 4th Edition
+    * Michael L. Scott, _[Programming Language Pragmatics](https://www.cs.rochester.edu/~scott/pragmatics/)_, 3rd or 4th Edition
         * 3rd edition ISBN: 978-0123745149
         * 4th edition ISBN: 978-0124104099
 

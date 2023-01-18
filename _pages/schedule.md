@@ -45,49 +45,49 @@ nav_order: 3
     <tr>
         <td align="center">1/16</td>
         <td>Introduction</td>
-        <td style='font-size:100%'>
+        <td style='font-size:100%'>Chap. 1 of Scott
         </td>
         <td>No class on Monday</td>
     </tr>
     <tr>
         <td align="center">1/23</td>
-        <td></td>
+        <td>Functional Programming and Scheme</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center">1/30</td>
-        <td></td>
+        <td>Functional Programming and Scheme</td>
         <td></td>
         <td>Add/Drop Deadline on Monday</td>
     </tr>
     <tr>
         <td align="center">2/6</td>
-        <td></td>
+        <td>Functional Programming and Scheme</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center">2/13</td>
-        <td></td>
+        <td>Syntax</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td align="center">2/20</td>
-        <td></td>
+        <td>Syntax</td>
         <td></td>
         <td>Academic Assessment Days</td>
     </tr>
     <tr>
         <td align="center">2/27</td>
-        <td></td>
+        <td>Names, Scopes and Bindings</td>
         <td></td>
         <td>No class on Friday</td>
     </tr>
     <tr>
         <td align="center">3/6</td>
-        <td></td>
+        <td>Names, Scopes and Bindings</td>
         <td></td>
         <td></td>
     </tr>

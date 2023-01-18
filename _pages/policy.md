@@ -13,7 +13,7 @@ nav_order: 5
 
 * Computer science faculty at Binghamton wrote a letter to all computer science students about the importance of academic honesty. This letter is available on Brightspace and at this link.
 
-* Please review the academic honesty document and make sure that you understand it! 
+* Please review the [academic honesty document](http://www.binghamton.edu/watson/about/honesty-policy.pdf) and make sure that you understand it! 
 
 * Some common academic dishonesty behaviors include:
 
