@@ -52,19 +52,19 @@ nav_order: 3
     <tr>
         <td align="center">1/23</td>
         <td>Functional Programming and Scheme</td>
-        <td></td>
+        <td>Note1&2</td>
         <td></td>
     </tr>
     <tr>
         <td align="center">1/30</td>
         <td>Functional Programming and Scheme</td>
-        <td></td>
+        <td>Chap. 11 of Scott</td>
         <td>Add/Drop Deadline on Monday</td>
     </tr>
     <tr>
         <td align="center">2/6</td>
         <td>Functional Programming and Scheme</td>
-        <td></td>
+        <td>Chap. 11 of Scott</td>
         <td></td>
     </tr>
     <tr>
